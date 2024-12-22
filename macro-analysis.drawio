@@ -31,7 +31,7 @@
         <mxCell id="jvyVlgBArIjrGOAw--vj-9" value="&lt;b&gt;Signal Nearing the Bullish Correction for GBPUSD&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="50" y="250" width="330" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="jvyVlgBArIjrGOAw--vj-10" value="&lt;div&gt;Growing US GDP (QoQ)&lt;/div&gt;&lt;div&gt;(QoQ on UK was lower despite YoY was higher)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="jvyVlgBArIjrGOAw--vj-10" value="&lt;div&gt;Growing US GDP (QoQ and YoY)&lt;/div&gt;&lt;div&gt;(QoQ on UK was lower despite YoY was higher)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="320" width="290" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jvyVlgBArIjrGOAw--vj-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="jvyVlgBArIjrGOAw--vj-11" target="jvyVlgBArIjrGOAw--vj-13">
@@ -51,6 +51,9 @@
         </mxCell>
         <mxCell id="jvyVlgBArIjrGOAw--vj-15" value="Lower Unemployment Claims in the US" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="320" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jvyVlgBArIjrGOAw--vj-20" value="&lt;div&gt;&lt;b&gt;despite both are growing in percentage from last year,&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;US GDP is defeating the UK GDP in percentage number&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;(3.0% vs 2.4%)&lt;br&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="970" y="400" width="350" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
