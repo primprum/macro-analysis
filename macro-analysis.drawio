@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3" pages="5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="25.0.3" pages="6">
   <diagram name="GBPUSD" id="BbSxssQzb4WoP3wDunCL">
     <mxGraphModel dx="1674" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -291,6 +291,58 @@
         </mxCell>
         <mxCell id="8Ml9nckOsTz-PfHaJ02I-5" value="22:00" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="130" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="y-kqKl8QU-MDAAvMmult" name="US Core PCE">
+    <mxGraphModel dx="1674" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="whXYKTbg8514wBpsgDkD-1" value="&lt;b&gt;Trading US Core PCE by using EURUSD&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="60" y="30" width="240" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whXYKTbg8514wBpsgDkD-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="whXYKTbg8514wBpsgDkD-2" target="whXYKTbg8514wBpsgDkD-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="whXYKTbg8514wBpsgDkD-2" value="&lt;div&gt;Check the edge on EU Open,&lt;/div&gt;&lt;div&gt;whether HMA1 above/below HMA2&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="90" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="whXYKTbg8514wBpsgDkD-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="whXYKTbg8514wBpsgDkD-3" target="whXYKTbg8514wBpsgDkD-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="whXYKTbg8514wBpsgDkD-8" value="enter position" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="whXYKTbg8514wBpsgDkD-7">
+          <mxGeometry x="0.0095" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="whXYKTbg8514wBpsgDkD-3" value="Check whether there is any EU news that supported the view" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="90" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="whXYKTbg8514wBpsgDkD-4" value="e.g. Higher German PPI" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="510" y="150" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whXYKTbg8514wBpsgDkD-6" value="&lt;div&gt;Wait until US Core PCE being release&amp;nbsp;&lt;/div&gt;&lt;div&gt;at US Session&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="90" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="whXYKTbg8514wBpsgDkD-9" value="&lt;b&gt;Sample that works&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="70" y="230" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="whXYKTbg8514wBpsgDkD-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="whXYKTbg8514wBpsgDkD-10" target="whXYKTbg8514wBpsgDkD-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="whXYKTbg8514wBpsgDkD-10" value="27th Nov" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="102.5" y="270" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="whXYKTbg8514wBpsgDkD-11" value="20th Dec" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="270" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rq3ooC-dS5Hgy7u04Ks3-1" value="Long" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="125" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rq3ooC-dS5Hgy7u04Ks3-2" value="Long" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="312.5" y="310" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
