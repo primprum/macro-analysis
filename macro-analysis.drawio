@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.1" pages="13">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.1" pages="14">
   <diagram name="GBPUSD" id="BbSxssQzb4WoP3wDunCL">
     <mxGraphModel dx="1674" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -842,6 +842,77 @@
         </mxCell>
         <mxCell id="SxzcyXkL6ser_CtokXU2-16" value="&lt;b&gt;So, if we follow the pattern as in 13th Dec where the pivot for reversal based on EU Flash PMI, then on January it&#39;s not the same&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="180" y="220" width="780" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="KbQwd36cw_aI6cwmfB46" name="XAUUSD">
+    <mxGraphModel dx="1674" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Z5AHqI3Kos7m--Kz6T3B-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z5AHqI3Kos7m--Kz6T3B-1" target="Z5AHqI3Kos7m--Kz6T3B-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5AHqI3Kos7m--Kz6T3B-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z5AHqI3Kos7m--Kz6T3B-1" target="Z5AHqI3Kos7m--Kz6T3B-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5AHqI3Kos7m--Kz6T3B-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z5AHqI3Kos7m--Kz6T3B-1" target="Z5AHqI3Kos7m--Kz6T3B-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5AHqI3Kos7m--Kz6T3B-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z5AHqI3Kos7m--Kz6T3B-1" target="Z5AHqI3Kos7m--Kz6T3B-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5AHqI3Kos7m--Kz6T3B-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z5AHqI3Kos7m--Kz6T3B-1" target="Z5AHqI3Kos7m--Kz6T3B-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5AHqI3Kos7m--Kz6T3B-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z5AHqI3Kos7m--Kz6T3B-1" target="Z5AHqI3Kos7m--Kz6T3B-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5AHqI3Kos7m--Kz6T3B-1" value="&lt;b&gt;Why holding Gold for Longer Term Would be a Better Idea&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="420" y="30" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5AHqI3Kos7m--Kz6T3B-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z5AHqI3Kos7m--Kz6T3B-2" target="Z5AHqI3Kos7m--Kz6T3B-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5AHqI3Kos7m--Kz6T3B-2" value="The trend for Interest Rate is downward, at it&#39;s worst, FED will only going to hold it" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5AHqI3Kos7m--Kz6T3B-3" value="&lt;div&gt;If inflation is still rising, it is still good choice to hold Gold&lt;/div&gt;&lt;div&gt;(Inflation Hedge)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="120" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5AHqI3Kos7m--Kz6T3B-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z5AHqI3Kos7m--Kz6T3B-4" target="Z5AHqI3Kos7m--Kz6T3B-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5AHqI3Kos7m--Kz6T3B-4" value="There&#39;s tendency of huge correction for the US500" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="120" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5AHqI3Kos7m--Kz6T3B-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z5AHqI3Kos7m--Kz6T3B-5" target="Z5AHqI3Kos7m--Kz6T3B-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5AHqI3Kos7m--Kz6T3B-5" value="If USD is stronger (because of Trump), doesn&#39;t mean that XAUUSD won&#39;t rise" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="980" y="120" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5AHqI3Kos7m--Kz6T3B-6" value="Strength of USD right now isn&#39;t because of rising rate expectation, but because of tariff policy from Trump" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="975" y="260" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5AHqI3Kos7m--Kz6T3B-7" value="Gold will only going to fall huge if there&#39;s an uptrend in rising the rate" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="45" y="260" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5AHqI3Kos7m--Kz6T3B-14" value="if USD is stronger, the suffering currency will probably EURUSD, not XAUUSD" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1300" y="120" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5AHqI3Kos7m--Kz6T3B-16" value="&lt;div&gt;Trump will probably gonna cause inflation again&lt;/div&gt;&lt;div&gt;(Republican character)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="505" y="260" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5AHqI3Kos7m--Kz6T3B-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="Z5AHqI3Kos7m--Kz6T3B-18" target="Z5AHqI3Kos7m--Kz6T3B-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5AHqI3Kos7m--Kz6T3B-18" value="We&#39;re seeing the shift of asset growth from US500 into BTCUSD and also XAUUSD" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="675" y="370" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Z5AHqI3Kos7m--Kz6T3B-20" value="We&#39;re seeing economic growth from safe-haven currency, USD, CHF, and JPY" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="675" y="520" width="210" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
