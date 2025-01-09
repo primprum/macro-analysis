@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.1" pages="14">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.3" pages="15">
   <diagram name="GBPUSD" id="BbSxssQzb4WoP3wDunCL">
     <mxGraphModel dx="1674" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -913,6 +913,45 @@
         </mxCell>
         <mxCell id="Z5AHqI3Kos7m--Kz6T3B-20" value="We&#39;re seeing economic growth from safe-haven currency, USD, CHF, and JPY" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
           <mxGeometry x="675" y="520" width="210" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="YaCw7XpjHnLD3L-mVyFy" name="USD Liquidity">
+    <mxGraphModel dx="1674" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5tgg1dO5iqe1IJpKDnz--1" value="&lt;b&gt;2 sources of liquidity in the US&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="30" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5tgg1dO5iqe1IJpKDnz--4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5tgg1dO5iqe1IJpKDnz--2" target="5tgg1dO5iqe1IJpKDnz--3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5tgg1dO5iqe1IJpKDnz--5" value="buy bonds and etc" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5tgg1dO5iqe1IJpKDnz--4">
+          <mxGeometry x="-0.01" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5tgg1dO5iqe1IJpKDnz--2" value="&lt;div&gt;QE&lt;/div&gt;&lt;div&gt;(Quantitative Easing)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="100" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5tgg1dO5iqe1IJpKDnz--3" value="Banks or Financial Institution" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="100" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5tgg1dO5iqe1IJpKDnz--8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="5tgg1dO5iqe1IJpKDnz--6" target="5tgg1dO5iqe1IJpKDnz--7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="5tgg1dO5iqe1IJpKDnz--9" value="directly spend" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5tgg1dO5iqe1IJpKDnz--8">
+          <mxGeometry x="-0.0111" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5tgg1dO5iqe1IJpKDnz--6" value="&lt;div&gt;TGA (Treasury General Account)&lt;br&gt;&lt;/div&gt;&amp;nbsp;Reduction" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="260" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="5tgg1dO5iqe1IJpKDnz--7" value="&lt;div&gt;Broader Economy&lt;/div&gt;&lt;div&gt;(Business, Individuals, etc)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="260" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
