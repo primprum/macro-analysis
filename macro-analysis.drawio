@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:133.0) Gecko/20100101 Firefox/133.0" version="26.0.5" pages="16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.5" pages="17">
   <diagram name="GBPUSD" id="BbSxssQzb4WoP3wDunCL">
     <mxGraphModel dx="1674" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -63,6 +63,146 @@
         </mxCell>
         <mxCell id="0nVwZ3B-ZJIWfr5PIVV6-3" value="(both are growing and both are above 50)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="591" width="360" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="FC6NvudiV8wFkmbLWqfV" name="BOJ">
+    <mxGraphModel dx="1674" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4WCSRU-JAVTkRbvhQj2q-1" target="4WCSRU-JAVTkRbvhQj2q-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4WCSRU-JAVTkRbvhQj2q-1" target="4WCSRU-JAVTkRbvhQj2q-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4WCSRU-JAVTkRbvhQj2q-1" target="4WCSRU-JAVTkRbvhQj2q-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4WCSRU-JAVTkRbvhQj2q-1" target="4WCSRU-JAVTkRbvhQj2q-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4WCSRU-JAVTkRbvhQj2q-1" target="4WCSRU-JAVTkRbvhQj2q-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4WCSRU-JAVTkRbvhQj2q-1" target="4WCSRU-JAVTkRbvhQj2q-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4WCSRU-JAVTkRbvhQj2q-1" target="4WCSRU-JAVTkRbvhQj2q-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4WCSRU-JAVTkRbvhQj2q-1" target="4WCSRU-JAVTkRbvhQj2q-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4WCSRU-JAVTkRbvhQj2q-1" target="4WCSRU-JAVTkRbvhQj2q-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-1" value="Bank of Japan" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#E6E6E6;" vertex="1" parent="1">
+          <mxGeometry x="720" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4WCSRU-JAVTkRbvhQj2q-2" target="4WCSRU-JAVTkRbvhQj2q-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-2" value="Governor" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="90" y="160" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4WCSRU-JAVTkRbvhQj2q-3" target="4WCSRU-JAVTkRbvhQj2q-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-3" value="Deputy Governor 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="260" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4WCSRU-JAVTkRbvhQj2q-4" target="4WCSRU-JAVTkRbvhQj2q-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-4" value="Deputy Governor 2" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFF2CC;" vertex="1" parent="1">
+          <mxGeometry x="440" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4WCSRU-JAVTkRbvhQj2q-5" target="4WCSRU-JAVTkRbvhQj2q-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-5" value="Board Member 1" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4WCSRU-JAVTkRbvhQj2q-6" target="4WCSRU-JAVTkRbvhQj2q-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-6" value="Board Member 2" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="810" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4WCSRU-JAVTkRbvhQj2q-7" target="4WCSRU-JAVTkRbvhQj2q-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-7" value="Board Member 3" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4WCSRU-JAVTkRbvhQj2q-8" target="4WCSRU-JAVTkRbvhQj2q-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-8" value="Board Member 4" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4WCSRU-JAVTkRbvhQj2q-9" target="4WCSRU-JAVTkRbvhQj2q-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-9" value="Board Member 5" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4WCSRU-JAVTkRbvhQj2q-10" target="4WCSRU-JAVTkRbvhQj2q-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-10" value="Board Member 6" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-21" value="UEDA Kazuo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-22" value="UCHIDA Shinichi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-23" value="HIMINO Ryozo" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-24" value="ADACHI Seiji" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-25" value="NAKAMURA Toyoaki" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="290" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-26" value="NOGUCHI Asahi" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="990" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-27" value="NAKAGAWA Junko" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-28" value="TAKATA Hajime" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1330" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-29" value="TAMURA Naoki" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1500" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4WCSRU-JAVTkRbvhQj2q-39" target="4WCSRU-JAVTkRbvhQj2q-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-39" value="19th Dec 2024" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="450" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4WCSRU-JAVTkRbvhQj2q-42" target="4WCSRU-JAVTkRbvhQj2q-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-42" value="8-1 Votes" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="450" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4WCSRU-JAVTkRbvhQj2q-44" target="4WCSRU-JAVTkRbvhQj2q-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-44" value="(1) TAMURA Naoki vote for 25bps hike" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="450" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="4WCSRU-JAVTkRbvhQj2q-46" value="0.25% (Unchanged)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="450" width="170" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
