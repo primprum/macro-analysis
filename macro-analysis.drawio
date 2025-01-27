@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.5" pages="17">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.7" pages="18">
   <diagram name="GBPUSD" id="BbSxssQzb4WoP3wDunCL">
     <mxGraphModel dx="1674" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -203,6 +203,45 @@
         </mxCell>
         <mxCell id="4WCSRU-JAVTkRbvhQj2q-46" value="0.25% (Unchanged)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="800" y="450" width="170" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="ew-AKyinoT-qxyzr2Odt" name="JPY on Jul 2024">
+    <mxGraphModel dx="1674" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="CqgDCmGuI33zjRCw0PNN-1" value="&lt;b&gt;Chain of events that would likely be the cause of the JPY strength during July 2024&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="30" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="CqgDCmGuI33zjRCw0PNN-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CqgDCmGuI33zjRCw0PNN-2" target="CqgDCmGuI33zjRCw0PNN-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CqgDCmGuI33zjRCw0PNN-8" value="Evidence 1" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CqgDCmGuI33zjRCw0PNN-4">
+          <mxGeometry x="-0.08" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqgDCmGuI33zjRCw0PNN-2" value="&lt;div&gt;MOF Instructs BOJ to Buy JPY&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="130" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CqgDCmGuI33zjRCw0PNN-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="CqgDCmGuI33zjRCw0PNN-3" target="CqgDCmGuI33zjRCw0PNN-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="CqgDCmGuI33zjRCw0PNN-9" value="Evidence 2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="CqgDCmGuI33zjRCw0PNN-6">
+          <mxGeometry x="-0.02" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="CqgDCmGuI33zjRCw0PNN-3" value="Lagging Reports from BOJ on 8th Nov Shows JPY buying action from July into September 2024" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="290" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="CqgDCmGuI33zjRCw0PNN-5" value="Lowest Total Foreign Reserves in July 2024" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="95" y="490" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="CqgDCmGuI33zjRCw0PNN-7" value="&lt;b&gt;Currency Intervention&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="80" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
