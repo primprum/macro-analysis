@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.7" pages="18">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.8" pages="19">
   <diagram name="GBPUSD" id="BbSxssQzb4WoP3wDunCL">
     <mxGraphModel dx="1674" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1266,6 +1266,53 @@
         </mxCell>
         <mxCell id="oK1KIxjnHUgkH2SotIb5-1" value="What about foreign investment such as FDI?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="410" width="270" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="pGkLd7IMWYeZNSDHpDaK" name="AU CPI Trade">
+    <mxGraphModel dx="1674" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="0ZtIe7etq2LQ_B6zhyF2-1" value="&lt;b&gt;Trading the AU CPI YoY on US Session Before the Data Launch&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="30" width="410" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZtIe7etq2LQ_B6zhyF2-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0ZtIe7etq2LQ_B6zhyF2-2" target="0ZtIe7etq2LQ_B6zhyF2-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZtIe7etq2LQ_B6zhyF2-2" value="&lt;div&gt;High Probability FOMC Rate Unchanged from CME&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="100" width="170" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZtIe7etq2LQ_B6zhyF2-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0ZtIe7etq2LQ_B6zhyF2-3" target="0ZtIe7etq2LQ_B6zhyF2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZtIe7etq2LQ_B6zhyF2-3" value="Overall Bullish US Data" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="100" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZtIe7etq2LQ_B6zhyF2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0ZtIe7etq2LQ_B6zhyF2-4" target="0ZtIe7etq2LQ_B6zhyF2-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZtIe7etq2LQ_B6zhyF2-4" value="Kathy&#39;s Bullish View on USD This Week" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="100" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZtIe7etq2LQ_B6zhyF2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0ZtIe7etq2LQ_B6zhyF2-5" target="0ZtIe7etq2LQ_B6zhyF2-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZtIe7etq2LQ_B6zhyF2-5" value="Weak CN PMI Number on Tuesday" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="100" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZtIe7etq2LQ_B6zhyF2-6" value="(Short Position Opened at Tue, 28th Jan Before AU CPI Report on Wed, 29th)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="22.5" y="50" width="465" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZtIe7etq2LQ_B6zhyF2-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="0ZtIe7etq2LQ_B6zhyF2-10" target="0ZtIe7etq2LQ_B6zhyF2-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZtIe7etq2LQ_B6zhyF2-10" value="&lt;div&gt;Expected Bearish AU CPI&lt;/div&gt;&lt;div&gt;(Likelihood of Rate Cuts on Feb)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1230" y="100" width="210" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="0ZtIe7etq2LQ_B6zhyF2-12" value="Expected Bullish US Consumer Confidence" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="210" width="210" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
