@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.8" pages="19">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64; rv:134.0) Gecko/20100101 Firefox/134.0" version="26.0.9" pages="20">
   <diagram name="GBPUSD" id="BbSxssQzb4WoP3wDunCL">
     <mxGraphModel dx="1674" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1313,6 +1313,50 @@
         </mxCell>
         <mxCell id="0ZtIe7etq2LQ_B6zhyF2-12" value="Expected Bullish US Consumer Confidence" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="210" width="210" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="mRm8_PjqEOGgkXxrnJWV" name="AUDUSD RBA Trade">
+    <mxGraphModel dx="1674" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1700" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nC2KE2hYkbNMKB5eehnv-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nC2KE2hYkbNMKB5eehnv-1" target="nC2KE2hYkbNMKB5eehnv-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nC2KE2hYkbNMKB5eehnv-1" value="Check the 1h chart, see whether it&#39;s on oversold or overbought" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="100" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nC2KE2hYkbNMKB5eehnv-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nC2KE2hYkbNMKB5eehnv-2" target="nC2KE2hYkbNMKB5eehnv-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nC2KE2hYkbNMKB5eehnv-2" value="&lt;div&gt;If it&#39;s on overbought,&amp;nbsp;&lt;/div&gt;&lt;div&gt;while RBA is expected to cut rates, this is further confirmed that AUDUSD will likely to fall downside&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="680" y="100" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nC2KE2hYkbNMKB5eehnv-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nC2KE2hYkbNMKB5eehnv-3" target="nC2KE2hYkbNMKB5eehnv-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nC2KE2hYkbNMKB5eehnv-3" value="&lt;div&gt;Prepare 1 day before the RBA announcement,&lt;/div&gt;&lt;div&gt;&amp;nbsp;(If Tuesday morning, prepare the momentum on Monday evening)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="100" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nC2KE2hYkbNMKB5eehnv-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nC2KE2hYkbNMKB5eehnv-4" target="nC2KE2hYkbNMKB5eehnv-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nC2KE2hYkbNMKB5eehnv-4" value="&lt;div&gt;Wait on 1m chart where there&#39;s momentum of the curve to the downside,&lt;/div&gt;&lt;div&gt;(This could be daunting, waiting could be until the midnight)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="100" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nC2KE2hYkbNMKB5eehnv-5" value="&lt;div&gt;Enter short position through 1m perspective,&lt;/div&gt;&lt;div&gt;get higher RR up until tomorrow morning&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="360" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nC2KE2hYkbNMKB5eehnv-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nC2KE2hYkbNMKB5eehnv-6" target="nC2KE2hYkbNMKB5eehnv-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nC2KE2hYkbNMKB5eehnv-6" value="&lt;div&gt;Momentum means that Price &amp;lt; HMAx &amp;lt; HMA1 &amp;lt; HMA2 &amp;lt; MA800 (in 1m)&lt;br&gt;&lt;/div&gt;&lt;div&gt;(Truly an A+ setup for trend confirmation)&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="230" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nC2KE2hYkbNMKB5eehnv-12" value="&lt;b&gt;Get higher RR through catching the right momentum&lt;/b&gt; &lt;b&gt;in 1m&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry y="40" width="395" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
